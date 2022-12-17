@@ -1,5 +1,6 @@
 # ISYE 6739 
 Outline of Lessons for ISyE 6739 Probability/Statistics – 200114
+
 0. Course Introduction + Bootcamps
 • Lesson 0.1: Syllabus
 • Lesson 0.2: Introduction to Probability and Statistics
